@@ -2,7 +2,6 @@ const bcrypt = require("bcrypt");
 const jwt = require("jwt-simple");
 const config = require("../config.js");
 
-
 module.exports = (app) => {
   const Users = app.models.users;
   const { secret } = config.jwt;
@@ -15,6 +14,7 @@ module.exports = (app) => {
         if (bcrypt.compareSync(password, user.password)) {
           const payload = { id: user.id };
           const token = jwt.encode(payload, secret);
+          // const token = jwt.sign(payload, secret, { expiresIn: "1d" });
           return res.json({ token });
         }
       }
