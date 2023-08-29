@@ -3,8 +3,8 @@ module.exports = (app) => {
 
   app
     .route("/tasks")
-    .all()
-    .get(app.auth.authenticate(), async (req, res) => {
+    .all(app.auth.authenticate())
+    .get(async (req, res) => {
       try {
         const where = { userId: req.user.id };
         const result = await Tasks.findAll({ where });
