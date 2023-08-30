@@ -1,0 +1,37 @@
+{"level":"info","message":"[Wed Aug 30 2023 15:13:13 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:13:13 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:13:13 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:13:13 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:13:13 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:13:13 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:13:26 +0000] \"GET / HTTP/1.1\" 200 22\n"}
+{"level":"info","message":"[Wed Aug 30 2023 15:13:36 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT `id`, `name`, `password`, `email`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `Users`;"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:13:36 +0000] \"GET /users HTTP/1.1\" 200 211\n"}
+{"level":"info","message":"[Wed Aug 30 2023 15:14:04 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT `id`, `name`, `password`, `email`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `Users` WHERE `Users`.`email` = 'guilherme@gmail.com';"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:14:04 +0000] \"POST /token HTTP/1.1\" 401 12\n"}
+{"level":"info","message":"[Wed Aug 30 2023 15:14:09 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT `id`, `name`, `password`, `email`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `Users` WHERE `Users`.`email` = 'guilherme@gmail.com';"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:14:09 +0000] \"POST /token HTTP/1.1\" 200 104\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:14:16 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:14:29 +0000] \"GET /user?Authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MX0.qMkKrC9GRXwJhCsRjR5dldxrxzSZZ6JEWUzT9xunid8 HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:14:30 +0000] \"GET /user?Authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MX0.qMkKrC9GRXwJhCsRjR5dldxrxzSZZ6JEWUzT9xunid8 HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:14:41 +0000] \"GET /user?Authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MX0.qMkKrC9GRXwJhCsRjR5dldxrxzSZZ6JEWUzT9xunid8 HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:14:46 +0000] \"GET /user?Authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MX0.qMkKrC9GRXwJhCsRjR5dldxrxzSZZ6JEWUzT9xunid8 HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:29 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:30 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:44 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:44 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:46 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:46 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:50 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:51 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:51 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:51 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:52 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:52 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:52 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:15:52 +0000] \"GET /user HTTP/1.1\" 401 -\n"}
+{"level":"info","message":"[Wed Aug 30 2023 15:17:11 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT `id`, `name`, `password`, `email`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `Users` WHERE `Users`.`email` = 'guilherme@gmail.com';"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:17:11 +0000] \"POST /token HTTP/1.1\" 200 104\n"}
+{"level":"info","message":"[Wed Aug 30 2023 15:17:21 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT `id`, `email` FROM `users` AS `Users` WHERE `Users`.`id` = 1;"}
+{"level":"info","message":"[Wed Aug 30 2023 15:17:21 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT `id`, `name`, `email` FROM `users` AS `Users` WHERE `Users`.`id` = 1;"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [30/Aug/2023:18:17:21 +0000] \"GET /user HTTP/1.1\" 200 57\n"}
