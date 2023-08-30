@@ -249,3 +249,201 @@
 {"level":"info","message":"[Wed Aug 30 2023 15:42:31 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
 {"level":"info","message":"[Wed Aug 30 2023 15:42:31 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
 {"level":"info","message":"[Wed Aug 30 2023 15:42:31 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:16 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:16 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:16 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:16 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:16 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:16 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:50:17 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:55:07 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"::1 - - [30/Aug/2023:18:55:12 +0000] \"GET / HTTP/1.1\" 200 22\n"}
+{"level":"info","message":"::1 - - [30/Aug/2023:18:55:12 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150\n"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:05 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT 1+1 AS result"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='users';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`users`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_INFO(`sqlite_autoindex_users_1`)"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): SELECT name FROM sqlite_master WHERE type='table' AND name='tasks';"}
+{"level":"info","message":"[Wed Aug 30 2023 15:56:29 GMT-0300 (Horário Padrão de Brasília)]\tExecuting (default): PRAGMA INDEX_LIST(`tasks`)"}
+{"level":"info","message":"::1 - - [30/Aug/2023:18:56:31 +0000] \"GET / HTTP/1.1\" 200 22\n"}
+{"level":"info","message":"::1 - - [30/Aug/2023:18:56:32 +0000] \"GET / HTTP/1.1\" 200 22\n"}
+{"level":"info","message":"::1 - - [30/Aug/2023:18:56:32 +0000] \"GET / HTTP/1.1\" 200 22\n"}
+{"level":"info","message":"::1 - - [30/Aug/2023:18:56:32 +0000] \"GET / HTTP/1.1\" 200 22\n"}
